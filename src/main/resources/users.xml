@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user age="54">
+        <login>loginn</login>
+        <password>passwordd</password>
+    </user>
+    <user age="54">
+        <login>lognn</login>
+        <password>passwordd</password>
+    </user>
+</users>

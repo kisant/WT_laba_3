@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<editions>
+    <print-edition id="AAAAA">
+        <title>some_0</title>
+        <edition-type>PRINT_EDITION</edition-type>
+        <list-format>A4</list-format>
+        <list-count>10</list-count>
+        <publication-year>1999</publication-year>
+    </print-edition>
+    <book id="AAAAB">
+        <title>some_1</title>
+        <edition-type>BOOK</edition-type>
+        <list-format>A4</list-format>
+        <list-count>10</list-count>
+        <publication-year>1599</publication-year>
+        <genre>DETECTIVE</genre>
+    </book>
+    <newspaper id="AAAAC">
+        <title>some_2</title>
+        <edition-type>NEWSPAPER</edition-type>
+        <list-format>A2</list-format>
+        <list-count>120</list-count>
+        <publication-year>1989</publication-year>
+        <newspaper-type>YELLOW</newspaper-type>
+    </newspaper>
+    <encyclopedia id="AAAAD">
+        <title>some_3</title>
+        <edition-type>ENCYCLOPEDIA</edition-type>
+        <list-format>A4</list-format>
+        <list-count>110</list-count>
+        <publication-year>1699</publication-year>
+        <encyclopedia-type>TECHNOLOGY</encyclopedia-type>
+    </encyclopedia>
+</editions>
